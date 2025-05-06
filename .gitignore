@@ -1,0 +1,14 @@
+# packages
+package-lock.json
+
+# dependency directories
+node_modules/
+
+# reports
+cypress/reports
+
+# videos
+cypress/videos
+
+# screenshots
+cypress/screenshots
